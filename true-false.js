@@ -1,20 +1,19 @@
-// Falsy
-// false
-// 0
-// ""
-// undefined
-// null
-// NaN
+// Falsy Value
+false
+0
+""
+undefined
+null
+NaN
 
-// Truthy
-// true
-// " "
-// "0"
-// []
-// {}
+// Truthy value
+true
+" "
+"0"
+[]
+{}
 
 let name = {};
-
 if(name){
    console.log('Condition is true')
 } else{
