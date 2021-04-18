@@ -22,8 +22,3 @@ const number = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 // const isThere = number.find(x => x > 5);
 // console.log(isThere)
 
-const res = number.map(function(x){
-   return x * x;
-})
-
-console.log(res)
